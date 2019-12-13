@@ -18,7 +18,7 @@ This custom shell takes 5 internal commands:
 * Typing only cd will also work
 * We can also run shell inside a shell, bash & other are also supported
   & can also compile this shell inside & run again.
-
+* Colour scheme makes it attractive :P
 * Limitations : Empty input doesn't work (but with space & tab it works)
 		No. of quotes dont matter in echo, it removes all
     
